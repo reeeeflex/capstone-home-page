@@ -6,7 +6,7 @@ This is a capstone project from Codecademy, in this project we need to create a 
 
 - Implemented comments throughout all of the CSS code
 - Was able to properly style website for desktop view
-- Worked around <figure> parent height and width sizing
+- Worked around figure parent height and width sizing
 
 - FUTURE GOALS:
 - Properly style for mobile interface
